@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* (Triple) B.S. in computer science, economics, and math, University of Wisconsin, Madison, 2021-2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2024-present: Reserach Analyst @ **Federal Reserve Bank of New York** (New York City, NY)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 06/2023-08/2023: Summer Intern @ **Center for Indian Country Development, Federal Reserve Bank of Minneapolis** (Minneapolis, MN)
+  * Helped compile the Native Entity Enterprise Dataset ([article](https://www.minneapolisfed.org/article/2025/new-data-showcase-the-breadth-of-tribally-owned-businesses))
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2023-12/2023: Academic Mentor @ **Center for Academic Excellence, UW-Madison** (Madison, WI)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Python
+  * MATLAB
+  * Java
+  * R
+  * JavaScript
+
+* Tools
+  * Git/GitHub
+  * Excel
+  * PowerPoint
+  * \\(\LaTeX\\)
 
 Publications
 ======
@@ -47,18 +43,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
