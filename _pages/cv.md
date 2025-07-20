@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* (Triple) B.S. in computer science, economics, and math, University of Wisconsin, Madison, 2021-2024
+* B.S. in computer science, economics, and math, University of Wisconsin, Madison, 2021-2024
 
 Work experience
 ======
