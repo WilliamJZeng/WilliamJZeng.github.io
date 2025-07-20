@@ -9,26 +9,23 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "William Zeng's Personal Website"
+title                    : "William J. Zeng"
 title_separator          : "-"
-name                     : &name "William Zeng"
+name                     : &name "William J. Zeng"
 description              : &description "personal description"
 url                      : https://williamjzeng.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamJZeng/WilliamJZeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               If a field is blank, then the icon and link will not appear; otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "William Zeng"
-  pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  name             : "William J. Zeng"
   location         : "NY, NY"
   employer         : "Federal Reserve Bank of New York"
-  uri              : # URL
   email            : "williamzeng2002@gmail.com" 
 
   # Academic websites
@@ -59,7 +56,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "william-j-zeng"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
