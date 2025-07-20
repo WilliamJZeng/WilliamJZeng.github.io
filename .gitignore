@@ -5,6 +5,7 @@ _site/
 # Ignore the directory for local files during development
 local/
 _drafts/
+_talks/
 
 # Ignore vendor
 vendor/
