@@ -4,8 +4,11 @@ _site/
 
 # Ignore the directory for local files during development
 local/
+_data/comments
 _drafts/
+_posts/
 _talks/
+talkmap
 
 # Ignore vendor
 vendor/
