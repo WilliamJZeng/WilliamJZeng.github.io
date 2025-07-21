@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  # - /about.html
 ---
 
 I'm a research analyst on the Forecasting and International Studies Teams at the Federal Reserve Bank of New York. 
