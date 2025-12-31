@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* 07/2024-present: Reserach Analyst @ **Federal Reserve Bank of New York** (New York City, NY)
+* 07/2024-present: Research Analyst @ **Federal Reserve Bank of New York** (New York City, NY)
 
 * 06/2023-08/2023: Summer Intern @ **Center for Indian Country Development, Federal Reserve Bank of Minneapolis** (Minneapolis, MN)
   * Helped compile the Native Entity Enterprise Dataset ([article](https://www.minneapolisfed.org/article/2025/new-data-showcase-the-breadth-of-tribally-owned-businesses))

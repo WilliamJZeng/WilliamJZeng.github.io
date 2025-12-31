@@ -5,7 +5,7 @@ category: out_blogs
 permalink: /publication/2025-02-27-global_trends_us_infl_dyn
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-27
-venue: 'Lberty Street Economics'
+venue: 'Liberty Street Economics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://libertystreeteconomics.newyorkfed.org/2025/02/global-trends-in-u-s-inflation-dynamics/'
 link: 'https://libertystreeteconomics.newyorkfed.org/2025/02/global-trends-in-u-s-inflation-dynamics/'
