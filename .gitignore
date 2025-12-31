@@ -22,3 +22,5 @@ package-lock.json
 
 # Ignore Claude Code files
 .claude/
+CLAUDE.md
+serve.bat
