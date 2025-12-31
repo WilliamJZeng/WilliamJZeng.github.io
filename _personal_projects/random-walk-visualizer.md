@@ -403,8 +403,6 @@ An interactive tool to visualize one-dimensional and two-dimensional random walk
   updateStats('Ready');
 </script>
 
----
-
 ### About Random Walks
 A random walk is a mathematical process that describes a path consisting of a succession of random steps.
 
