@@ -145,6 +145,7 @@ An interactive tool to visualize one-dimensional and two-dimensional random walk
   <div id="stats">Steps: 0 | Status: Ready</div>
 </div>
 
+{% raw %}
 <script type="text/javascript">
   const canvas = document.getElementById('canvas');
   const ctx = canvas.getContext('2d');
@@ -409,6 +410,7 @@ An interactive tool to visualize one-dimensional and two-dimensional random walk
     updateStats('Ready');
   }
 </script>
+{% endraw %}
 
 ### About Random Walks
 A random walk is a mathematical process that describes a path consisting of a succession of random steps.
