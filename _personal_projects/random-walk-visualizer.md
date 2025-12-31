@@ -145,7 +145,7 @@ An interactive tool to visualize one-dimensional and two-dimensional random walk
   <div id="stats">Steps: 0 | Status: Ready</div>
 </div>
 
-<script>
+<script type="text/javascript">
   const canvas = document.getElementById('canvas');
   const ctx = canvas.getContext('2d');
 
@@ -398,9 +398,16 @@ An interactive tool to visualize one-dimensional and two-dimensional random walk
   pauseBtn.addEventListener('click', pause);
   resetBtn.addEventListener('click', reset);
 
-  // Initialize
-  drawGrid();
-  updateStats('Ready');
+  // Initialize on DOM ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() {
+      drawGrid();
+      updateStats('Ready');
+    });
+  } else {
+    drawGrid();
+    updateStats('Ready');
+  }
 </script>
 
 ### About Random Walks
